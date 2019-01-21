@@ -33,7 +33,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   h = ["p","d","am"]
-  h = [p,0]
+  r = [p,2]
   
 end
 
