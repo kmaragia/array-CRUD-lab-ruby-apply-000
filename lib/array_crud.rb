@@ -33,13 +33,13 @@ end
 
 def retrieve_element_from_index(array, index_number)
   h = ["p","d","am"]
-  r = [h,2]
+  h[2]
   
 end
 
 def retrieve_first_element_from_array(array)
   f = ["wow","re"]
-  p = [f,0]
+  f[0]
   
 end
 
