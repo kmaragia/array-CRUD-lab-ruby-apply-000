@@ -38,7 +38,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  f = [p,0]
+  f = ["wow","re"]
+  p = [f,0]
   
 end
 
